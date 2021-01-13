@@ -13,7 +13,7 @@ module ChatApp
     
     config.generators do |g|
       g.stylesheets false
-      g.javascripts jalse
+      g.javascripts false
       g.helper false
       g.test_framework false
     end
